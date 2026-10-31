@@ -1,4 +1,4 @@
-﻿namespace Template.Entities
+namespace Template.Entities
 {
     public class User
     {
